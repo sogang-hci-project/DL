@@ -1,0 +1,4 @@
+logs
+model_store
+pytorch_model.bin
+vocab.txt
